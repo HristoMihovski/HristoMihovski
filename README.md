@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HristoMihovski
+- 👀 I’m interested in HTML, CSS and JS also in chess - (https://www.chess.com/member/knight_attacker25)
+- 🌱 I’m currently learning programming
+- 📫 How to reach me: hristo.mihovski.highschool@svetlina.net
